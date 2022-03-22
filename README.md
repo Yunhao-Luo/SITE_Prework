@@ -4,7 +4,7 @@
 
 Submitted by: **Yunhao Luo**
 
-Time spent: **2.5** hours spent in total
+Time spent: **8** hours spent in total
 
 Link to project: lunar-brief-turnover.glitch.me/
 
@@ -25,16 +25,17 @@ The following **optional** features are implemented:
 * [√] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
 * [√] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [√] More than 4 functional game buttons
-* [ ] Playback speeds up on each turn
-* [ ] Computer picks a different pattern each time the game is played
-* [ ] Player only loses after 3 mistakes (instead of on the first mistake)
+* [√] Playback speeds up on each turn
+* [√] Computer picks a different pattern each time the game is played
+* [√] Player only loses after 3 mistakes (instead of on the first mistake)
 * [ ] Game button appearance change goes beyond color (e.g. add an image)
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
-* [ ] User has a limited amount of time to enter their guess on each turn
+* [√] User has a limited amount of time to enter their guess on each turn
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app!
+- [√] List anything else that you can get done to improve the app!
+- Every time the player makes a mistake, there will be a window that reminds the player of how many more mistakes are allowed.
 
 ## Video Walkthrough (GIF)
 
@@ -46,7 +47,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+W3S, Stackoverflow
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [YOUR ANSWER HERE]
@@ -66,7 +67,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Yunhao Luo]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
