@@ -4,7 +4,7 @@
 
 Submitted by: **Yunhao Luo**
 
-Time spent: **12** hours spent in total
+Time spent: **14** hours spent in total
 
 Link to project: lunar-brief-turnover.glitch.me/
 
@@ -28,7 +28,7 @@ The following **optional** features are implemented:
 * [√] Playback speeds up on each turn
 * [√] Computer picks a different pattern each time the game is played
 * [√] Player only loses after 3 mistakes (instead of on the first mistake)
-* [ ] Game button appearance change goes beyond color (e.g. add an image)
+* [√] Game button appearance change goes beyond color (e.g. add an image)
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
 * [√] User has a limited amount of time to enter their guess on each turn
 
@@ -45,6 +45,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ![](https://i.imgur.com/VWA4dlh.gif)
 ![](https://i.imgur.com/EtEzNpr.gif)
 ![](https://i.imgur.com/LgKIkxp.gif)
+![](https://i.imgur.com/t3Zg9Bw.gif)
 
 
 ## Reflection Questions

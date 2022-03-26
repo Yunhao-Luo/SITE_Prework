@@ -26,10 +26,6 @@ function newPattern() {
           Math.floor(Math.random() * 6) + 1, Math.floor(Math.random() * 6) + 1];
 }
 
-function printTime() {
-  document.getElementById("time").innerHTML += "||";
-}
-
 
 function startGame(){
     //initialize game variables  
