@@ -50,9 +50,11 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
 W3S, Stackoverflow
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
+
 The ticking clock feature was a big challenge for me. I started by reading the W3S page on setInterval and clearInterval. I first tried to make a progress
 bar by printing "||" every second. After some experiment, I found that this method might not be the optimal solution because players can't see the exact
 time remaining, and also a growing progress bar does not fit as a countdown clock that tells the player how much time is remaining for each turn.
@@ -69,6 +71,7 @@ and hopefully gain some new insights from a higher point of view or a different 
 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+
 I learned a lot about web development from completing this submission. Creating this game on web is already a big achievement for me, but I think a game
 is always more fun when players get to interact with other players. Thus, I am curious about how to establish real time connections and interactions between
 different users so I can make this a multiplayer game. Moreover, I am also curious about the next level of web development. I think this submission really
@@ -80,6 +83,7 @@ realize these features. I believe these fundamentals are the critical foundation
 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+
 Games are always fun when played with friends, so I would spend more time adding another player into the game. There will be two modes, one for competition and 
 another for collaboration. I would try to find some songs that can be played by these simple tones so that players can cooperate and play a song together. I would
 also love to add a feature of celebration when the player wins the game. There will be a celebration song made by these tones, and once the player wins, the game
